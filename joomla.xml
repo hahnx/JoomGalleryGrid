@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<joomla>
+    <component>
+        <name>hnx_joomgallery</name>
+        <lowname>hnx_joomgallery</lowname>
+        <uppername>HNX_JOOMGALLERY</uppername>
+        <version>0.0.1</version>
+        <projectDir>/Users/hahnx/NetBeansProjects/hnx_joomgallery</projectDir>
+    </component>
+</joomla>
